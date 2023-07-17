@@ -889,6 +889,7 @@
     -webkit-line-clamp: 2;
     user-select: none;
     -webkit-user-select: none;
+    padding: 0 6px;
 }
 /* Product item */
 .home-product{
